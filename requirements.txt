@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pydantic
+asyncio
+pyspellchecker
+gramformer
+stringcase
+numpy
+sentence-transformers
+scipy
